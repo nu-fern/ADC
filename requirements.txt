@@ -26,7 +26,7 @@ django-cors-headers==2.1.0
 django-extensions==1.7.9
 django-hitcount==1.2.2
 django-rest-auth==0.9.1
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 djangorestframework-csv==2.0.0
 djangorestframework-jwt==1.10.0
 django-settings-export>=1.2.1
