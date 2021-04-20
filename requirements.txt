@@ -75,7 +75,7 @@ presto-python-client
 prompt-toolkit==1.0.14
 psycopg2==2.7.1
 ptyprocess==0.5.1
-py==1.4.34
+py==1.10.0
 py4j==0.10.5
 pyarrow==0.6.0
 pycparser==2.17
